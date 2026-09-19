@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Code.+Break.+Fix.+Repeat.;Turning+Coffee+Into+Code;Building+Things+That+Don%27t+Break.+Usually." alt="Typing SVG" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Jasser Hammami</h1>
 <h3 align="center">Computer Science Student &amp; Full-Stack Developer</h3>
 
