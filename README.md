@@ -18,13 +18,27 @@ I'm Jasser Hammami, a Computer Science student and full-stack developer focused 
 
 🛠️ I am currently building and testing:
 
-- **PulseLink** — a full-stack healthcare data platform with role-based workflows for patients, nurses, and doctors, built with a Java Spring Boot REST API (JWT auth + RBAC) and a React frontend.
+- **[PulseLink](https://github.com/jasser08DEV/PulseLink)** — a full-stack healthcare data platform with role-based workflows for patients, nurses, and doctors. Built a Java Spring Boot REST API for authentication and healthcare data workflows, integrated with a React frontend for role-appropriate UX. Implemented JWT-based auth, role-based access control, and password hashing, backed by a MongoDB database seeded with 500 patient, 100 nurse, and 100 doctor records for realistic testing.
+- **Regime-Aware Portfolio Optimizer** — a finance + AI pipeline combining Modern Portfolio Theory with unsupervised machine learning. Uses Markowitz mean-variance optimization (via PyPortfolioOpt) to solve for the max-Sharpe portfolio across a 10-asset basket (23.9% expected annual return, 1.16 Sharpe ratio), and K-Means clustering on rolling volatility/return features to detect "calm" vs. "volatile" market regimes, validated against known events like the COVID-19 crash and the 2022 rate-hike selloff. v2 will add regime-driven rebalancing and full backtesting.
 - **UltMind** — an Ultimate Tic-Tac-Toe AI in Python using Minimax, alpha-beta pruning, Zobrist hashing, and transposition tables to search 6+ moves deep.
 - **Hospital Database Management System** — a normalized relational database with a Java GUI for CRUD workflows and multi-table SQL reporting.
 
 🎓 I'm also certified in AI Fundamentals (IBM SkillsBuild) and Developing AI Applications with Python (Coursera).
 
 🚀 Follow along if you're into full-stack development, secure system design, or AI-driven projects.
+
+---
+
+### 📌 Pinned Projects
+
+| | |
+|---|---|
+| 🏥 **[PulseLink](https://github.com/jasser08DEV/PulseLink)** | Full-stack healthcare data platform — Java Spring Boot + React, JWT auth, RBAC, MongoDB |
+| 📈 **Regime-Aware Portfolio Optimizer** | Finance + AI: Markowitz optimization + K-Means market regime detection (Python, scikit-learn) |
+| 🎮 **UltMind** | Ultimate Tic-Tac-Toe AI — Minimax, alpha-beta pruning, Zobrist hashing (Python, Pygame) |
+| 🏨 **Hospital Database Management System** | Normalized relational DB + Java GUI for CRUD workflows and SQL reporting |
+
+*(Repo links will update as each project goes public — pin the ones you want featured via your GitHub profile's "Customize your pins" too, so they also show up on your profile natively.)*
 
 ---
 
@@ -47,6 +61,15 @@ I'm Jasser Hammami, a Computer Science student and full-stack developer focused 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+**Data & Machine Learning:**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
 **Backend, Data & Infrastructure:**
