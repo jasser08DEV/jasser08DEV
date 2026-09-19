@@ -19,8 +19,8 @@ I'm Jasser Hammami, a Computer Science student and full-stack developer focused 
 🛠️ I am currently building and testing:
 
 - **[PulseLink](https://github.com/jasser08DEV/PulseLink)**: a full-stack healthcare data platform with role-based workflows for patients, nurses, and doctors. Built a Java Spring Boot REST API for authentication and healthcare data workflows, integrated with a React frontend for role-appropriate UX. Implemented JWT-based auth, role-based access control, and password hashing, backed by a MongoDB database seeded with 500 patient, 100 nurse, and 100 doctor records for realistic testing.
-- **Regime-Aware Portfolio Optimizer** — a finance + AI pipeline combining Modern Portfolio Theory with unsupervised machine learning. Uses Markowitz mean-variance optimization (via PyPortfolioOpt) to solve for the max-Sharpe portfolio across a 10-asset basket (23.9% expected annual return, 1.16 Sharpe ratio), and K-Means clustering on rolling volatility/return features to detect "calm" vs. "volatile" market regimes, validated against known events like the COVID-19 crash and the 2022 rate-hike selloff. v2 will add regime-driven rebalancing and full backtesting.
-- **UltMind** — an Ultimate Tic-Tac-Toe AI in Python using Minimax, alpha-beta pruning, Zobrist hashing, and transposition tables to search 6+ moves deep.
+- **Regime-Aware Portfolio Optimizer**: a finance + AI pipeline combining Modern Portfolio Theory with unsupervised machine learning. Uses Markowitz mean-variance optimization (via PyPortfolioOpt) to solve for the max-Sharpe portfolio across a 10-asset basket (23.9% expected annual return, 1.16 Sharpe ratio), and K-Means clustering on rolling volatility/return features to detect "calm" vs. "volatile" market regimes, validated against known events like the COVID-19 crash and the 2022 rate-hike selloff. v2 will add regime-driven rebalancing and full backtesting.
+- **UltMind**: an Ultimate Tic-Tac-Toe AI in Python using Minimax, alpha-beta pruning, Zobrist hashing, and transposition tables to search 6+ moves deep.
 
 🎓 I'm also certified in AI Fundamentals (IBM SkillsBuild) and Developing AI Applications with Python (Coursera).
 
