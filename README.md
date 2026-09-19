@@ -48,16 +48,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jasser08DEV&show_icons=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasser08DEV&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasser08DEV&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jasser08DEV&theme=radical&row=1&column=6" />
 </p>
 
 ---
@@ -104,4 +95,5 @@ A normalized relational database for patients, prescriptions, departments, and r
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jasser08DEV&style=flat-square&color=blue" alt="profile views" />
+</p>lat-square&color=blue" alt="profile views" />
 </p>
