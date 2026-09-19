@@ -1,4 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Jasser%20Hammami&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=16" />
+<h1 align="center">Hi 👋, I'm Jasser Hammami</h1>
+<h3 align="center">Computer Science Student &amp; Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jasserhammami" target="_blank">
@@ -78,15 +79,6 @@ I'm Jasser Hammami, a Computer Science student and full-stack developer focused 
 </p>
 
 ---
-
-### 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2E9EF7/jasser08DEV" alt="jasser08DEV's contribution graph" width="90%" />
-</p>
-
----
-
 ### 🐍 Contribution Snake
 
 <p align="center">
@@ -99,4 +91,4 @@ I'm Jasser Hammami, a Computer Science student and full-stack developer focused 
   <img src="https://komarev.com/ghpvc/?username=jasser08DEV&style=flat-square&color=blue" alt="profile views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+---
